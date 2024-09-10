@@ -1,0 +1,13 @@
+
+
+set_io led[0] 21
+set_io led[1] 19
+set_io led[2] 18
+set_io led[3] 11
+
+
+
+set_io -pullup yes clk 20
+set_io -pullup no pmod 25
+
+
